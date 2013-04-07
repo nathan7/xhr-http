@@ -1,0 +1,21 @@
+{
+  "name": "xhr",
+  "version": "0.0.1",
+  "description": "a shim for matthewp/xhr in browserify/node-land",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/xhr-http.git"
+  },
+  "keywords": [
+    "xhr",
+    "http",
+    "browserify",
+    "component"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "dependencies": {
+    "hyperquestionable": "~2.1.1"
+  }
+}
